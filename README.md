@@ -45,10 +45,6 @@ This script scrapes salary data from the [DBK News Salary Guide](https://salaryg
 
 - Saves data to `scraped_salary_data_allyears.xlsx`.
 
-## Data
-
-Ensure necessary data directories are available. The data will be uploaded as permissions are obtained in the future.
-
 ## Contribution
 
 Contributions are welcome. Fork the repository and create a pull request for improvements or features.
